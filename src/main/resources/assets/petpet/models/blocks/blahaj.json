@@ -1,11 +1,10 @@
 {
   "parent": "minecraft:block/block",
   "render_type": "cutout",
-  "credit": "original model by hibii, changes made by musicalskele",
+  "credit": "original model by hibii, changes made by musicalskele and piperpaperrose",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "blahaj:block/blue_shark",
-		"particle": "blahaj:block/blue_shark"
+		"0": "minecraft:cobblestone"
 	},
 	"elements": [
 		{
