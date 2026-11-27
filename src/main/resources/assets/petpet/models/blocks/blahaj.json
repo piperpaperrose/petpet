@@ -4,8 +4,8 @@
   "credit": "original model by hibii, changes made by musicalskele and piperpaperrose",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:cobblestone"
-	},
+		"0": "petpet:block/blue_shark"
+  },
 	"elements": [
 		{
       "name": "shork",

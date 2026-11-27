@@ -1,19 +1,19 @@
 {
   "variants": {
     "facing=east": {
-      "model": "petpet:block/blahaj",
-      "y": 90
+      "model": "petpet:blocks/blahaj",
+      "y": 270
     },
     "facing=north": {
-      "model": "petpet:block/blahaj"
+      "model": "petpet:blocks/blahaj"
     },
     "facing=south": {
-      "model": "petpet:block/blahaj",
+      "model": "petpet:blocks/blahaj",
       "y": 180
     },
     "facing=west": {
-      "model": "petpet:block/blahaj",
-      "y": 270
+      "model": "petpet:blocks/blahaj",
+      "y": 90
     }
   }
 }
